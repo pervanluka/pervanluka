@@ -9,7 +9,7 @@ I am 25 years old and have been programming for a couple of years. A year of exp
 * 🏫  Bachelor's degree in computer science
 * 🌍  I'm based in Otok, Croatia
 * ✉️  You can contact me at [lukapervan@hotmail.com](mailto:lukapervan@hotmail.com)
-* 🚀  I'm currently working on [personal projects](http://github.com/pervanluka)
+* 🚀  I'm currently working as a freelancer and in free time I work on presonal projects improving my skills
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 
