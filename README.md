@@ -7,9 +7,9 @@ Flutter Developer
 I am 26 years old and have been programming for a couple of years. A year of experience in Java and C language and at the end of last year (2021) I started actively working on Flutter projects. I'm open for work!
 
 * 🏫  Bachelor's degree in computer science
-* 🌍  I'm based in Otok, Croatia
+* 🌍  I'm based in Livno, Bosnia and Herzegovina
 * ✉️  You can contact me at [lukapervan@hotmail.com](mailto:lukapervan@hotmail.com)
-* 🚀  I'm currently working as a freelancer and in free time I work on presonal projects improving my skills
+* 🚀  I'm currently working as a Flutter developer at Rolla(Mostar) and in free time I work as a freelancer.
 * 🧠  I'm still learning Flutter (everyday something new)
 * 🤝  I'm open to collaborating on interesting projects
 
