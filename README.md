@@ -4,7 +4,7 @@ Hi 👋 My name is Luka Pervan
 Flutter Developer
 -----------------
 
-I am 26 years old and have been programming for a couple of years. A year of experience in Java and C language and at the end of last year (2021) I started actively working on Flutter projects. I'm open for work!
+I am 26 years old and have been programming for a couple of years. A year of experience in Java and C language and at the end of 2021 I started actively working on Flutter projects. I'm open for work!
 
 * 🏫  Bachelor's degree in computer science
 * 🌍  I'm based in Livno, Bosnia and Herzegovina
